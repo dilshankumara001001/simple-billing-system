@@ -1,4 +1,4 @@
-# 🛒 Simple Shop Billing System (POS)
+🛒 Simple Shop Billing System (POS)
 
 A lightweight, easy-to-use **Point of Sale (POS)** system built specifically for small shops, grocery stores, and cafes. This system allows cashiers to quickly add items, calculate totals, apply discounts, and generate printable invoices.
 
