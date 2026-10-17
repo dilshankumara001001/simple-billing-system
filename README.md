@@ -9,7 +9,7 @@ lightweight, easy-to-use **Point of Sale (POS)** system built specifically for s
 
 ---
 
-## ✨ Features
+Features
 
 - 🔐 **Secure Login System** (Password hashed with bcrypt)
 - 🛍️ **Product Search** (Smart `datalist` autocomplete – no heavy libraries!)
