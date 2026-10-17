@@ -1,6 +1,6 @@
 Simple Shop Billing System (POS)
 
-A lightweight, easy-to-use **Point of Sale (POS)** system built specifically for small shops, grocery stores, and cafes. This system allows cashiers to quickly add items, calculate totals, apply discounts, and generate printable invoices.
+lightweight, easy-to-use **Point of Sale (POS)** system built specifically for small shops, grocery stores, and cafes. This system allows cashiers to quickly add items, calculate totals, apply discounts, and generate printable invoices.
 
 ![PHP](https://img.shields.io/badge/PHP-8.1-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
